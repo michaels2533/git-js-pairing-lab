@@ -8,7 +8,7 @@ The purpose of this lab is to get you and your partner familiar with `git`, spec
 * `git pull` to pull down changes from a remote repo to a local repo
 * How to manage merge conflicts
 
-Note: This lab demonstrates a workflow that will likely create many merge conflicts. This lab demonstrates why this workflow is not the best.
+Note: This lab demonstrates a workflow that does not follow best practices as it will likely create many merge conflicts. However, it is a great place to start to learn the foundations of working collaboratively on Git!
 
 ## Instructions
 
