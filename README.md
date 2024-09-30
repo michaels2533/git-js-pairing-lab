@@ -4,9 +4,11 @@ The purpose of this lab is to get you and your partner familiar with `git`, spec
 * Fork a repository
 * `git clone` down a remote repository
 * `git add` to stage and `git commit` to commit changes
-* `git push` to push up commited changes from a local repo to a remote repo
+* `git push` to push up committed changes from a local repo to a remote repo
 * `git pull` to pull down changes from a remote repo to a local repo
-* Use git to work collaboratively on a shared code base!
+* How to manage merge conflicts
+
+Note: This lab demonstrates a workflow that will likely create many merge conflicts. This lab demonstrates why this workflow is not the best.
 
 ## Instructions
 
