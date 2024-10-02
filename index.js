@@ -8,7 +8,13 @@ const fiveToOneHundred = () => {
 }
 
 //Problem #2 
-
+const multiplesOfThree = () =>{
+    for(let i = 3; i <= 100; i++){
+        if((i % 3) === 0){
+            console.log(`${i}`);
+        }
+    }
+}
 
 
 //Problem #3 
@@ -74,3 +80,4 @@ const largest = (num1, num2, num3) => {
      }
 }
 console.log(largest(8,9,7));
+multiplesOfThree();
