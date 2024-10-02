@@ -11,7 +11,6 @@ const fiveToOneHundred = () => {
 
 
 
-
 //Problem #3 
 const multiplesOfThreeOrFive = () => {
     for(let i = 3; i < 101; i++){
@@ -19,7 +18,6 @@ const multiplesOfThreeOrFive = () => {
             console.log(`${i}`);
         }
     }
-
 }
 // Problem #4
 const untilNum = () => {
@@ -34,7 +32,7 @@ const multiply = (num1, num2) => {
 }
 
 // Problem #6
-const add(num1, num2) => {
+const add = (num1, num2) => {
     if (num1 === num2) {
       return 3 * (num1 + num2);
     } else {
@@ -63,4 +61,16 @@ const betweenTwentyAndFourty = (num) => {
 }
 
 // Problem 10
+const largest = (num1, num2, num3) => {
+    if((num1 > num2) && (num1 > num3)) { 
 
+        return num1 
+        }
+        else if((num2 > num1) && (num2 > num3)) {
+    
+        return num2 
+        } else {
+            return num3
+     }
+}
+console.log(largest(8,9,7));
