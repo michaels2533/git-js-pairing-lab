@@ -155,6 +155,8 @@ largest(41, 108, 86)    //returns 108
 
 ### Bonus
 
+Once you reach the bonus problems, divide up the questions that you will each be working on. Instead of pair programming and alternating pushing and pulling, you will switch to **parallel programming** using branches. Read about the [Git Branching and PR process](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/mod-0-command-line-interfaces-git-and-github/4-git-branching) and attempt to implement it for this lab! You will need to each create your own branch, submit PRs for your partner to review and merge, and then handle merging branches. You got this!
+
 11. Write a function `printTime` that prints out the current time in the format `HH:MM:ss`. Do not hard code the hour, minute, or seconds values.
 
 12. Write a function `isLeapYear` to determine whether a given year is a [leap year](https://www.rmg.co.uk/stories/topics/which-years-are-leap-years-can-you-have-leap-seconds#:~:text=To%20be%20a%20leap%20year,2028%20are%20all%20leap%20years.) in the Gregorian calendar.
